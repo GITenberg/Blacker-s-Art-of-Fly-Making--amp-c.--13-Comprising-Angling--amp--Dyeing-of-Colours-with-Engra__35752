@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37878'
     url: http://www.gutenberg.org/2009/agents/37878
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35752#Blacker-s-Art-of-Fly-Making--amp-c.--13-Comprising-Angling--amp--Dyeing-of-Colours-with-Engra_
 gutenberg_bookshelf: Crafts
 gutenberg_issued: '2011-04-02'
 gutenberg_type: Text
