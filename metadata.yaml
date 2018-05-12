@@ -1,0 +1,30 @@
+_repo: Blacker-s-Art-of-Fly-Making--amp-c.--13-Comprising-Angling--amp--Dyeing-of-Colours-with-Engra__35752
+_version: 0.1.0
+alternative_title: "Blacker's Art of Fly Making, Etc.\r\nComprising Angling, and Dyeing\
+  \ of Colours, with Engravings of Salmon and Trout Flies"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blacker, W. (William)
+    alias: Blacker, William
+    gutenberg_agent_id: '37878'
+    url: http://www.gutenberg.org/2009/agents/37878
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2011-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SH'
+- !lcsh 'Flies, Artificial'
+- !lcsh 'Fishing'
+title: "Blacker's Art of Fly Making, &c.\r\nComprising Angling, & Dyeing of Colours,\
+  \ with Engravings of Salmon & Trout Flies"
+url: http://www.gutenberg.org/ebooks/35752
